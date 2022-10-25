@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;  }
+  a {
+    text-decoration: none;
+  }
+  
+  body {
+    background: #0a0a0e;
+  }
+  .container {
+    margin: 0px 40px;
+  }
